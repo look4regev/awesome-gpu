@@ -8,6 +8,7 @@ Curating the best GPU resources, tools and frameworks
 
 - [Monitoring](#moniroting)
 - [Docker](#docker)
+- [Other References](#other-references)
 
 ### Monitoring
 
@@ -19,3 +20,7 @@ Curating the best GPU resources, tools and frameworks
 ### Docker
 
 - [pytorch](https://hub.docker.com/r/pytorch/pytorch) - the official pytorch docker image to run on GPU
+
+### Other References
+- [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) - useful libraries and resources for CUDA development
+- [Awesome-GPU](https://github.com/Jokeren/Awesome-GPU) - Awesome resources and papers for GPUs
