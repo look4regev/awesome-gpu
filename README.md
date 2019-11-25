@@ -12,6 +12,7 @@ Curating the best GPU resources, tools and frameworks
 ### Monitoring
 
 - [Prometheus GPU exporter](https://github.com/NVIDIA/gpu-monitoring-tools/tree/master/exporters/prometheus-dcgm) - Prometheus exporter to get GPU usage - visualize with grafana.
+- [GPUtil](https://github.com/anderskm/gputil) - Simple python tool to trace GPU utilization based on nvidia-smi
 - [nvtop](https://github.com/Syllo/nvtop) - like htop just for GPU.
 - [gpu-sentry](https://github.com/jacenkow/gpu-sentry) - local web to monitor GPU usage, basic UI, dead simple
 
