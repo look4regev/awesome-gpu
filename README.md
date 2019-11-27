@@ -24,3 +24,4 @@ Curating the best GPU resources, tools and frameworks
 ### Other References
 - [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) - useful libraries and resources for CUDA development
 - [Awesome-GPU](https://github.com/Jokeren/Awesome-GPU) - Awesome resources and papers for GPUs
+- [Nvidia GPU registry](https://ngc.nvidia.com/) - Free downloadable index of containers and pre-built ML & DL models
