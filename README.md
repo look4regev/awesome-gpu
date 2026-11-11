@@ -6,7 +6,7 @@ Curating the best GPU resources, tools and frameworks
 
 ## Contents
 
-- [Monitoring](#moniroting)
+- [Monitoring](#monitoring)
 - [Docker](#docker)
 - [Other References](#other-references)
 
